@@ -1,3 +1,4 @@
+
 {
   "pub_key": "BLS_VER_KEY~lLWeCb-CeT5gfQIpSM14rpG0-gG3ndGbWfxZNNwKywZMWC6vOrIfXdMsmTZNBvAO59y2YjQn7rgHNtdZVEzdLmprfdZVtsQwhMitUJylq7WDOGyKFpZoj1HhEz-CKWkfy4LYzX7___5vBtIal7m3M3W7mLMdiNyIuKxpStA-3hKe",
   "name": "INCENTIVED.ORG",
@@ -6,7 +7,7 @@
   "company_website": "https://incentived.org",
   "client_version": "v1.0.0",
   "icon": {
-    "14x14": { "@1x": "https://raw.githubusercontent.com/incentivedorg/Espresso-Metadata/refs/heads/main/icon-1.jpg", "@2x": "https://raw.githubusercontent.com/incentivedorg/Espresso-Metadata/refs/heads/main/icon-3.jpg", "@3x": "https://raw.githubusercontent.com/incentivedorg/Espresso-Metadata/refs/heads/main/icon-5.jpg" },
-    "24x24": { "@1x": "https://raw.githubusercontent.com/incentivedorg/Espresso-Metadata/refs/heads/main/icon-2.jpg", "@2x": "https://raw.githubusercontent.com/incentivedorg/Espresso-Metadata/refs/heads/main/icon-4.jpg", "@3x": "https://raw.githubusercontent.com/incentivedorg/Espresso-Metadata/refs/heads/main/icon-6.jpg" }
+    "14x14": { "@1x": "https://raw.githubusercontent.com/incentivedorg/Espresso-Metadata/refs/heads/main/icon1.jpg", "@2x": "https://raw.githubusercontent.com/incentivedorg/Espresso-Metadata/refs/heads/main/icon2.jpg", "@3x": "https://raw.githubusercontent.com/incentivedorg/Espresso-Metadata/refs/heads/main/icon3.jpg" },
+    "24x24": { "@1x": "https://raw.githubusercontent.com/incentivedorg/Espresso-Metadata/refs/heads/main/icon4.jpg", "@2x": "https://raw.githubusercontent.com/incentivedorg/Espresso-Metadata/refs/heads/main/icon5.jpg", "@3x": "https://raw.githubusercontent.com/incentivedorg/Espresso-Metadata/refs/heads/main/icon6.jpg" }
   }
 }
